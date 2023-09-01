@@ -1,3 +1,3 @@
 export function Welcome(props) {
-  return <div>Bienvenido, señor {props.nombre}</div>;
+  return <div>Bienvenido, señor {props.nombre} {props.apellido}</div>;
 }

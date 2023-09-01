@@ -46,7 +46,7 @@
   display: flex;
   padding: 10px;
   border-radius: 5px;
-  background: lightblue;
+  background: rgb(141, 223, 162);
 }
 
 .tarjeta-img {
@@ -98,4 +98,9 @@
 .post-paragraph {
   max-width: 400px;
   font-size: 20px;
+}
+
+.checkbox{
+  display: flex;
+  align-items: center;
 }
